@@ -9,8 +9,8 @@ pip install pyyaml beautifulsoup4 owlready2 openai tiktoken
 Можете дописать после "!" пояснение для модели о том что это свойство или класс означает, или другие инструкции по извлечению индивидуумов этого класса или добавлению этого свойства.
 
 Если же вы хотите отправить свой промпт, запросите вернуть результат в следующей структуре:
-{ 
-    “objects”: 
+ 
+    {“objects”: 
          {
               [“class name”, “object name”, “object metadata / additional data”, “object metadata / additional data” …], …
          }
@@ -23,7 +23,7 @@ pip install pyyaml beautifulsoup4 owlready2 openai tiktoken
      “data properties”: 
          {
               [“property name”, “object name”, “value”], …      
-         }
-}
+         }}
+
 Ответы в других структурах не будут обработаны.
 
