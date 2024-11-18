@@ -1,0 +1,649 @@
+2024-11-08 14:18:43,083 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,107 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,108 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,109 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,111 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,113 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,115 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,117 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,118 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,119 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:18:43,179 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:04,775 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,575 - app_logger - ERROR - Subject 'region Atyrau Region' for 'consists' not found in individuals.
+2024-11-08 14:44:11,577 - app_logger - ERROR - Subject 'region Aktobe Region' for 'consists' not found in individuals.
+2024-11-08 14:44:11,601 - app_logger - ERROR - Subject 'region Atyrau Region' for 'consists' not found in individuals.
+2024-11-08 14:44:11,603 - app_logger - ERROR - Subject 'region West Kazakhstan' for 'consists' not found in individuals.
+2024-11-08 14:44:11,609 - app_logger - ERROR - Subject 'region West Kazakhstan' for 'consists' not found in individuals.
+2024-11-08 14:44:11,610 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'consists' not found in individuals.
+2024-11-08 14:44:11,611 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'consists' not found in individuals.
+2024-11-08 14:44:11,613 - app_logger - ERROR - Subject 'region Atyrau Region' for 'consists' not found in individuals.
+2024-11-08 14:44:11,614 - app_logger - ERROR - Subject 'region Aktobe Region' for 'consists' not found in individuals.
+2024-11-08 14:44:11,616 - app_logger - ERROR - Subject 'region West Kazakhstan' for 'consists' not found in individuals.
+2024-11-08 14:44:11,617 - app_logger - ERROR - Subject 'region Aktobe Region' for 'consists' not found in individuals.
+2024-11-08 14:44:11,618 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'consists' not found in individuals.
+2024-11-08 14:44:11,620 - app_logger - ERROR - Subject 'settlement Atyrau' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,621 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,623 - app_logger - ERROR - Subject 'settlement Atyrau' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,624 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,625 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,627 - app_logger - ERROR - Subject 'settlement Atyrau' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,628 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,629 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,633 - app_logger - ERROR - Subject 'settlement Atyrau' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,634 - app_logger - ERROR - Subject 'settlement Atyrau' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,635 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,636 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,637 - app_logger - ERROR - Subject 'settlement Atyrau' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,639 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,641 - app_logger - ERROR - Subject 'Country Kazakhstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,642 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:11,645 - app_logger - ERROR - Subject 'region Atyrau Region' for 'isPart' not found in individuals.
+2024-11-08 14:44:11,647 - app_logger - ERROR - Subject 'region West Kazakhstan' for 'isPart' not found in individuals.
+2024-11-08 14:44:11,649 - app_logger - ERROR - Subject 'region Aktobe Region' for 'isPart' not found in individuals.
+2024-11-08 14:44:44,425 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,384 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,385 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,386 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,387 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,388 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,390 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,391 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,392 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,393 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,394 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,395 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-08 14:44:49,396 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:40,990 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 14:59:40,998 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 14:59:40,998 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:40,998 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 14:59:40,998 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 14:59:40,998 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:40,998 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:41,000 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,001 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Value for 'Almaty' must be of type type, got int.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Value for 'Turkestan' must be of type type, got int.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Value for 'Almaty Region' must be of type type, got float.
+2024-11-17 14:59:41,002 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got float.
+2024-11-17 14:59:41,003 - app_logger - ERROR - Value for 'Turkestan' must be of type type, got float.
+2024-11-17 14:59:41,003 - app_logger - ERROR - Value for 'Almaty' must be of type type, got float.
+2024-11-17 14:59:42,973 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 14:59:42,976 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 14:59:42,980 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:42,981 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,982 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Object 'City' for 'population' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Object 'township' for 'population' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Value for 'Atyrau' must be of type type, got int.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Value for 'Aktobe Region' must be of type type, got int.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Value for 'Atyrau' must be of type type, got float.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Value for 'Atyrau Region' must be of type type, got int.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Object 'City' for 'square' not found in individuals.
+2024-11-17 14:59:42,984 - app_logger - ERROR - Object 'Country' for 'square' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 14:59:46,335 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 14:59:46,336 - app_logger - ERROR - Value for 'Almaty' must be of type type, got int.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Balkhash' must be of type type, got int.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Caspian Sea' must be of type type, got int.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Aral Sea' must be of type type, got int.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Astana' must be of type type, got int.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Astana' must be of type type, got float.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got float.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Balkhash' must be of type type, got float.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Almaty' must be of type type, got float.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Caspian Sea' must be of type type, got float.
+2024-11-17 14:59:46,337 - app_logger - ERROR - Value for 'Aral Sea' must be of type type, got float.
+2024-11-17 15:14:39,723 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:39,724 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:39,724 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:39,724 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:39,724 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:39,725 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:39,726 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:39,727 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Value for 'Aral Sea' must be of type type, got int.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Value for 'Almaty' must be of type type, got int.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Value for 'Balkhash' must be of type type, got int.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Value for 'Caspian Sea' must be of type type, got int.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Value for 'Astana' must be of type type, got int.
+2024-11-17 15:14:39,728 - app_logger - ERROR - Value for 'Caspian Sea' must be of type type, got float.
+2024-11-17 15:14:39,729 - app_logger - ERROR - Value for 'Almaty' must be of type type, got float.
+2024-11-17 15:14:39,729 - app_logger - ERROR - Value for 'Almaty' must be of type type, got float.
+2024-11-17 15:14:39,729 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got float.
+2024-11-17 15:14:43,392 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:43,392 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:43,392 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:43,392 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:43,392 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:43,392 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,393 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,394 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,395 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,396 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,397 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,398 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,398 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,398 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,398 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,398 - app_logger - ERROR - Value for 'Almaty' must be of type type, got int.
+2024-11-17 15:14:43,398 - app_logger - ERROR - Value for 'Turkestan' must be of type type, got int.
+2024-11-17 15:14:43,399 - app_logger - ERROR - Value for 'Almaty Region' must be of type type, got float.
+2024-11-17 15:14:43,400 - app_logger - ERROR - Value for 'Turkestan' must be of type type, got float.
+2024-11-17 15:14:43,400 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got float.
+2024-11-17 15:14:43,400 - app_logger - ERROR - Value for 'Almaty' must be of type type, got float.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:43,898 - app_logger - ERROR - Subject 'Country' for 'consists' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'region' for 'consists' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'City' for 'consists' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'township' for 'consists' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,899 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'Mountain' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'Lake' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'River' for 'located' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,900 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'township' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'Country' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'City' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'region' for 'includes' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,901 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'township' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'Country' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'City' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'region' for 'hasBorder' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,902 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'township' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,903 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Subject 'Country' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Subject 'City' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Subject 'region' for 'isPart' not found in individuals.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Object 'Astana' for 'population' not found in individuals.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Value for 'Atyrau' must be of type type, got int.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Value for 'West Kazakhstan Region' must be of type type, got float.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got float.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Value for 'Atyrau Region' must be of type type, got float.
+2024-11-17 15:14:43,904 - app_logger - ERROR - Value for 'Atyrau' must be of type type, got float.
+2024-11-17 15:14:43,905 - app_logger - ERROR - Value for 'West Kazakhstan Region' must be of type type, got float.
+2024-11-17 15:14:43,905 - app_logger - ERROR - Value for 'Aktobe Region' must be of type type, got float.
+2024-11-17 15:53:56,408 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 16:10:23,281 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 16:10:23,282 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 16:10:23,286 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 16:10:23,287 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 16:10:23,287 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 16:10:23,290 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 16:10:23,293 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-17 16:10:23,294 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 16:10:23,295 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 16:10:23,297 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'includes' not found in individuals.
+2024-11-17 16:10:23,297 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got float.
+2024-11-17 16:10:23,299 - app_logger - ERROR - Value for 'Kazakhstan' must be of type type, got int.
+2024-11-17 18:43:39,599 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 18:43:39,599 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 18:43:39,600 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 18:43:39,600 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 18:43:39,600 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 18:43:39,600 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'includes' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'Atyrau Region' for 'includes' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'Aktobe Region' for 'includes' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'Atyrau Region' for 'isPart' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Object 'Aktobe Region' for 'isPart' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'Aktobe Region' for 'isPart' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Object 'Atyrau Region' for 'isPart' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'Atyrau Region' for 'consists' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-17 18:43:39,601 - app_logger - ERROR - Subject 'Aktobe Region' for 'consists' not found in individuals.
+2024-11-17 18:48:29,055 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 18:48:29,055 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 18:48:29,056 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 18:48:29,056 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 18:48:29,056 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 18:48:29,057 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 19:11:04,259 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 19:11:04,260 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 19:11:04,260 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 19:11:04,260 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 19:11:04,260 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 19:11:04,260 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'Atyrau Region' for 'consists' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'Aktobe Region' for 'consists' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Object 'Aktobe Region' for 'isPart' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Object 'Atyrau Region' for 'isPart' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'includes' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'Mangystau Region' for 'includes' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'Atyrau Region' for 'includes' not found in individuals.
+2024-11-17 19:11:04,262 - app_logger - ERROR - Subject 'Aktobe Region' for 'includes' not found in individuals.
+2024-11-17 19:13:04,497 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 19:13:04,497 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 19:13:04,501 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 19:13:04,501 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 19:13:04,502 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 19:13:04,502 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 21:15:59,209 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 21:15:59,209 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 21:15:59,219 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 21:15:59,219 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 21:15:59,219 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 21:15:59,219 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'Aktobe Region' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'Atyrau Region' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Object 'Central Asia' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Object 'Eurasia' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Object 'Atyrau Region' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Object 'Aktobe Region' for 'isPart' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'Atyrau Region' for 'consists' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'Aktobe Region' for 'consists' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-17 21:15:59,221 - app_logger - ERROR - Subject 'Aktobe Region' for 'consists' not found in individuals.
+2024-11-17 21:29:58,429 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-17 21:29:58,429 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-17 21:29:58,430 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-17 21:29:58,430 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-17 21:29:58,430 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-17 21:29:58,430 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-17 21:29:58,433 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 21:29:58,436 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-17 21:29:58,437 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-17 21:29:58,437 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'includes' not found in individuals.
+2024-11-18 19:59:30,794 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 19:59:30,813 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-18 19:59:30,813 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 19:59:30,813 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 19:59:30,814 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 19:59:30,814 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 19:59:30,818 - app_logger - ERROR - Subject 'East Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-18 20:19:00,610 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 20:19:00,610 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 20:19:00,616 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 20:19:00,616 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 20:19:00,617 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-18 20:19:00,617 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 20:19:00,621 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'includes' not found in individuals.
+2024-11-18 20:19:00,621 - app_logger - ERROR - Subject 'Atyrau Region' for 'includes' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'Aktobe Region' for 'includes' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'Atyrau Region' for 'isPart' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'Aktobe Region' for 'isPart' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'Atyrau Region' for 'consists' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Subject 'Aktobe Region' for 'consists' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Object 'Aktobe Region' for 'square' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Object 'Atyrau Region' for 'square' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'square' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Object 'Atyrau Region' for 'population' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'population' not found in individuals.
+2024-11-18 20:19:00,622 - app_logger - ERROR - Object 'Aktobe Region' for 'population' not found in individuals.
+2024-11-18 21:29:10,370 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 21:29:10,371 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-18 21:29:10,381 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:29:10,389 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 21:29:10,389 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 21:29:10,389 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:29:10,391 - app_logger - ERROR - Subject 'Aktobe' for 'isPart' not found in individuals.
+2024-11-18 21:29:10,391 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-18 21:29:10,391 - app_logger - ERROR - Subject 'Atyrau' for 'isPart' not found in individuals.
+2024-11-18 21:29:10,392 - app_logger - ERROR - Subject 'Western Kazakhstan' for 'isPart' not found in individuals.
+2024-11-18 21:29:10,392 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-18 21:29:10,392 - app_logger - ERROR - Object 'Aktobe' for 'square' not found in individuals.
+2024-11-18 21:29:10,393 - app_logger - ERROR - Object 'Western Kazakhstan' for 'square' not found in individuals.
+2024-11-18 21:29:10,393 - app_logger - ERROR - Object 'Atyrau' for 'square' not found in individuals.
+2024-11-18 21:42:32,445 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 21:42:32,446 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-18 21:42:32,454 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:42:32,454 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 21:42:32,454 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:42:32,454 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 21:42:32,457 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-18 21:42:32,457 - app_logger - ERROR - Subject 'Aktobe' for 'consists' not found in individuals.
+2024-11-18 21:42:32,457 - app_logger - ERROR - Subject 'Atyrau' for 'consists' not found in individuals.
+2024-11-18 21:42:32,458 - app_logger - ERROR - Subject 'Western Kazakhstan' for 'consists' not found in individuals.
+2024-11-18 21:42:32,458 - app_logger - ERROR - Subject 'Atyrau' for 'isPart' not found in individuals.
+2024-11-18 21:42:32,458 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-18 21:42:32,459 - app_logger - ERROR - Subject 'Western Kazakhstan' for 'isPart' not found in individuals.
+2024-11-18 21:42:32,459 - app_logger - ERROR - Subject 'Aktobe' for 'isPart' not found in individuals.
+2024-11-18 21:42:32,459 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'square' not found in individuals.
+2024-11-18 21:42:32,460 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'population' not found in individuals.
+2024-11-18 21:44:38,075 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 21:44:38,075 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 21:44:38,106 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 21:44:38,107 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:44:38,107 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-18 21:44:38,107 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:44:38,109 - app_logger - ERROR - Subject 'Western Kazakhstan' for 'consists' not found in individuals.
+2024-11-18 21:44:38,109 - app_logger - ERROR - Subject 'Aktobe' for 'consists' not found in individuals.
+2024-11-18 21:44:38,109 - app_logger - ERROR - Subject 'Aktobe' for 'consists' not found in individuals.
+2024-11-18 21:44:38,109 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-18 21:44:38,109 - app_logger - ERROR - Subject 'Atyrau' for 'consists' not found in individuals.
+2024-11-18 21:44:38,111 - app_logger - ERROR - Subject 'Atyrau' for 'consists' not found in individuals.
+2024-11-18 21:44:38,111 - app_logger - ERROR - Subject 'Western Kazakhstan' for 'isPart' not found in individuals.
+2024-11-18 21:44:38,112 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-18 21:44:38,112 - app_logger - ERROR - Subject 'Aktobe' for 'isPart' not found in individuals.
+2024-11-18 21:44:38,112 - app_logger - ERROR - Subject 'Atyrau' for 'isPart' not found in individuals.
+2024-11-18 21:44:38,112 - app_logger - ERROR - Object 'Western Kazakhstan' for 'square' not found in individuals.
+2024-11-18 21:44:38,113 - app_logger - ERROR - Object 'Aktobe' for 'square' not found in individuals.
+2024-11-18 21:44:38,113 - app_logger - ERROR - Object 'Atyrau' for 'square' not found in individuals.
+2024-11-18 21:45:45,109 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 21:45:45,109 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 21:45:45,109 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 21:45:45,111 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:45:45,111 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
+2024-11-18 21:45:45,111 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:45:45,112 - app_logger - ERROR - Subject 'West Kazakhstan Region' for 'consists' not found in individuals.
+2024-11-18 21:45:45,114 - app_logger - ERROR - Subject 'Western Kazakhstan' for 'isPart' not found in individuals.
+2024-11-18 21:45:45,115 - app_logger - ERROR - Subject 'Mangystau Region' for 'isPart' not found in individuals.
+2024-11-18 21:45:45,116 - app_logger - ERROR - Object 'Mangystau Region' for 'isPart' not found in individuals.
+2024-11-18 21:45:45,116 - app_logger - ERROR - Subject 'East Kazakhstan' for 'isPart' not found in individuals.
+2024-11-18 21:45:45,116 - app_logger - ERROR - Object 'West Kazakhstan Region' for 'isPart' not found in individuals.
+2024-11-18 21:45:45,117 - app_logger - ERROR - Object 'East Kazakhstan' for 'square' not found in individuals.
+2024-11-18 21:45:45,118 - app_logger - ERROR - Object 'Mangystau Region' for 'square' not found in individuals.
+2024-11-18 21:45:45,118 - app_logger - ERROR - Object 'Western Kazakhstan' for 'square' not found in individuals.
+2024-11-18 21:47:07,001 - app_logger - ERROR - Class 'Region' not found in ontology.
+2024-11-18 21:47:07,001 - app_logger - ERROR - Object 'Russia' for 'hasBorder' not found in individuals.
+2024-11-18 21:47:07,001 - app_logger - ERROR - Object 'Uzbekistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:47:07,001 - app_logger - ERROR - Object 'China' for 'hasBorder' not found in individuals.
+2024-11-18 21:47:07,001 - app_logger - ERROR - Object 'Turkmenistan' for 'hasBorder' not found in individuals.
+2024-11-18 21:47:07,001 - app_logger - ERROR - Object 'Kyrgyzstan' for 'hasBorder' not found in individuals.
