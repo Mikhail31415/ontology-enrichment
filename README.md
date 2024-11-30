@@ -11,6 +11,7 @@ pip install pyyaml beautifulsoup4 owlready2 openai tiktoken
 Если же вы хотите отправить свой промпт, запросите вернуть результат в виде структуры:
 
 { 
+    
     “objects”: 
          {
               [“class name”, “object name”, “object metadata / additional data”, “object metadata / additional data” …], …
