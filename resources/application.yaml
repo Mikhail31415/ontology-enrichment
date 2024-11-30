@@ -1,0 +1,17 @@
+openai:
+  temperature: 0.1
+  num_responses: 5
+  system_message: "You are an assistant specializing in ontology-related tasks. Your responses must be in correct JSON format, adhering to the specified JSON schema."
+  model: gpt-4o-mini
+  model_tokens_limitation: 128000
+text_processor:
+  overlap_sentences: 1
+  separators:
+    - "\n"
+    - "."
+  text_processor_semaphore_size: 10
+  threshold: 1
+logging:
+  relative_path: logs\ontology_enrichment.log
+
+
