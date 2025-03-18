@@ -1,7 +1,7 @@
 python version = 3.12
 
 Основные зависимости окружения:
-pip install pyyaml beautifulsoup4 owlready2 openai tiktoken
+pip install pyyaml beautifulsoup4 owlready2 openai tiktoken aiofiles aiohttp
 
 Для работы приложения необходимо чтобы в переменных среды была установленна переменная с именем OPENAI_API_KEY и значением вашего API ключа от OpenAI API
 
